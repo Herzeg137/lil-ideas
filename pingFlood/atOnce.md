@@ -6,13 +6,11 @@
 
     1. for Windows, enter to cmd.exe and type:
 
-        ```batch
+        batch:
         FOR /L %N IN () DO @
-        ```
     
 
     2. for Ubuntu/etc, enter to terminal and type this:
 
-        ```bash
+        bash:
         while true; do `ping kundalik.com`; done
-        ```
