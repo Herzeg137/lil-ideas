@@ -1,6 +1,6 @@
 import webbrowser
 import time
-a = input('Iltimos web site linkini kiriting: ')
+a = input(ʻWeb-Site URL: ')
 
 while True:ver
     webbrowser.open_new_tab(a)
