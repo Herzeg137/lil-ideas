@@ -6,18 +6,19 @@ window = Tk()
 window.title("")
 
 
-def zafar():
+url1 = input("web site url: " )
+def olv():
     
     while True:
 
-        webbrowser.open_new_tab('https://metallplaza.netlify.app/')
+        webbrowser.open_new_tab(url1)
 
         time.sleep(2)
 
 verb = Entry(window)
 verb.pack()
 
-butt = Button(window, text = "Zafar 06", command = zafar)
+butt = Button(window, text = "OLV", command = OLV)
 butt.pack()
 
 jav = []
