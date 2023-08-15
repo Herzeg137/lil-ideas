@@ -7,7 +7,9 @@ Repos should be located in /Downloads directory
 
 `1. cd Downloads/`
 
-`2. bash commanda.bash`
+`2. cd lil-projects/` 
+ 
+`3. bash commanda.bash`
 
 
 Note: For stop type Ctrl+C in Terminal or " Close the Terminal "
