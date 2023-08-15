@@ -5,7 +5,7 @@ Repos should be located in /Downloads directory
 
 ### **Usage:**
 
-`1. cd Downloads/lil-projects/`
+`1. cd Downloads/lil-ideas/virus`
  
 `2. bash commanda.bash`
 
