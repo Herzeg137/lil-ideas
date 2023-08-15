@@ -1,5 +1,7 @@
 import webbrowser
 import time
+import tkinter
+import tkinter_page
 from tkinter import *
 
 window = Tk()
