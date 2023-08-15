@@ -1,9 +1,12 @@
 #!/bin/bash
 
+
 cd Downloads/
 
-find OLV
+cd lil-projects
 
-cd OLV
+cd virusmade_by_Python
+
+cd virus
 
 python virus.py
