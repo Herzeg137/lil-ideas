@@ -1,24 +1,17 @@
 # OLV
-OLV    ==    OpenLink Virus
+OLV    ==    OpenLink Browser Virus
 
-OLV fayli kompyuterning Downloads papkasida bo'lishi shart. Aks holda bash ishlamaydi. bash ishlamasa Virus ham.
+Repos should be located in /Downloads directory
 
-bash va OLV fayllari alohida alohida ko'rinishda lekin Downloads da bo'lishi kerak.
-
-### **Ishlatish:**
+### **Usage:**
 
 `1. cd Downloads/`
 
 `2. bash commanda.bash`
 
 
-### **Yakun:**
+Note: For stop type Ctrl+C in Terminal or " Close the Terminal "
 
-Virus tayyor. Virus ni to'xtatish uchun Terminalni o'chirish kerak.
+### **Comming Soon Updates:**
 
-
-
-1. Virus ni tayyorlash
-2. web browser ga google dan subm=domein ochib zafar ni rasmini qoyish va bu scamm likni korstadi
-3. Tkinter yordamida prilojeniya yaratamiz. Start bosganda Virus boshlanadi Stop bosganada esa Toxtitidi.
-4. 
+1. While opening the web page, at the home page, the picture of smth must be displayed [This is so COOL ] 
